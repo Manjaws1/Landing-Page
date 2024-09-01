@@ -1,0 +1,80 @@
+ .b-logo{
+    width:100px;
+    height:20px;
+    
+    
+}
+
+.logo-img{
+
+    width:20rem;
+    height: 4.5em;
+    padding-left: 35px;
+    margin-left:15px;
+}
+
+.img-fluid-1 {
+    max-width: 35rem;
+    height: 30rem;
+  }
+
+
+.logo{
+    width:60px;
+    height:60px;
+    border-radius: 30px;
+    margin-right: 5px;
+    
+}
+
+.pt{
+    margin-left: 5rem;
+}
+
+ .img{
+    width:68px;
+    height:420px;
+   
+} 
+
+.img-logo{
+        width: 30rem;
+        height:25rem;
+        border-radius: 3rem;
+        position: static;
+}
+
+.our-school{
+    background-color: white;
+    width:18rem;
+    height: 9rem;
+    border-radius: 1rem;
+    position:relative;
+    top:-8rem;
+    left:10px;
+}
+
+.circle-group{
+    display: flex;
+    flex-direction: row;
+}
+
+.circle-group > .circle{
+    background-color: purple;
+    width:60px;
+    height:60px;
+    border-radius:30px;
+    display: flex;
+    color:#fff;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index:0;
+    right:13px;
+}
+
+.circle-group > .circle h5{
+    font-size: 20px;
+    font-weight: bold;
+ 
+}
